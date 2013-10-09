@@ -28,7 +28,7 @@ namespace TaijiLib {
         static bool LibLoaded(){return loaded;};
         static void LoadLib(bool load){loaded = load;};
         void InstanceLoadLib(bool load);
-        int CallNativeDelegate();
+        std::string CallNativeDelegate(std::string);
     };
 }
 #endif /* defined(__TaijiCppLib__LibStatus__) */

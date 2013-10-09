@@ -28,8 +28,10 @@ namespace TaijiLib {
         loaded = load;
     }
     
-    int LibClass::CallNativeDelegate(){
-        return _del->showMessage("Call to Native Code");
+    std::string LibClass::CallNativeDelegate(std::string input){
+
+        input += "Native Modified.\n";
+        return _del->modifyInput(input);
     }
     
 }

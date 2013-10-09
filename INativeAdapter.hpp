@@ -26,7 +26,7 @@ public:
     void init( void );
     
     // a parameterized method to be implemented by the delegate
-    int showMessage( std::string message );
+    std::string modifyInput( std::string message );
 };
 
 
