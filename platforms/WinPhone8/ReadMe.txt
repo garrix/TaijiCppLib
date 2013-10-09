@@ -1,0 +1,1 @@
+Notes about WinPhone8 platform specific stuff 

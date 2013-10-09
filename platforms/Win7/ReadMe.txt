@@ -1,0 +1,1 @@
+Notes about Win7 platform specific stuff 

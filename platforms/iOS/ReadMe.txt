@@ -1,0 +1,1 @@
+Notes about iOS platform specific stuff 
