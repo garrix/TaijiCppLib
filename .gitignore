@@ -7,3 +7,4 @@
 *.xcscheme
 ReadMe.txt
 *.vcxproj*
+Debug/*
