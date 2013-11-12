@@ -6,8 +6,13 @@
 *.xcuserstate
 *.xcscheme
 *.vcxproj*
-Debug/*
+*.csproj*
+Debug/* 
 
+bin/
+obj/
+ARM/
+Debug/
 *.png
 
 *.xcsettings
