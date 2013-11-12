@@ -7,3 +7,9 @@
 *.xcscheme
 *.vcxproj*
 Debug/*
+
+*.png
+
+*.xcsettings
+
+*.xcbkptlist
