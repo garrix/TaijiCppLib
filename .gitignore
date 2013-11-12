@@ -15,7 +15,8 @@ ARM/
 Debug/
 Properties/
 *.png
-
+*.opensdf
+*.sdf
 *.xcsettings
 
 *.xcbkptlist
