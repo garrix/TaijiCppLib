@@ -5,8 +5,8 @@
 *.xcuserdata
 *.xcuserstate
 *.xcscheme
-*.vcxproj*
-*.csproj*
+*.vcxproj.*
+*.csproj.*
 Debug/* 
 
 bin/
